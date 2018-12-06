@@ -1,3 +1,17 @@
 C:\Users\Victor Ureta\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.csproj.CoreCompileInputs.cache
 C:\Users\Victor Ureta\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.AssemblyInfoInputs.cache
 C:\Users\Victor Ureta\source\repos\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.AssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\bin\Debug\netcoreapp2.1\WebApplication8.deps.json
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\bin\Debug\netcoreapp2.1\WebApplication8.runtimeconfig.json
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\bin\Debug\netcoreapp2.1\WebApplication8.runtimeconfig.dev.json
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\bin\Debug\netcoreapp2.1\WebApplication8.dll
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\bin\Debug\netcoreapp2.1\WebApplication8.pdb
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.csprojAssemblyReference.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.RazorAssemblyInfo.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.RazorAssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.AssemblyInfoInputs.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.AssemblyInfo.cs
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.RazorTargetAssemblyInfo.cache
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.dll
+C:\Users\Victor Ureta\source\repos\DockerTest1\docker-testppt\WebApplication8\obj\Debug\netcoreapp2.1\WebApplication8.pdb
