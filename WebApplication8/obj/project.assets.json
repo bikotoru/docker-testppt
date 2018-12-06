@@ -11843,11 +11843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Ureta\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+      "projectUniqueName": "C:\\Users\\Victor Ureta\\source\\repos\\DockerTest1\\docker-testppt\\WebApplication8\\WebApplication8.csproj",
       "projectName": "WebApplication8",
-      "projectPath": "C:\\Users\\Victor Ureta\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+      "projectPath": "C:\\Users\\Victor Ureta\\source\\repos\\DockerTest1\\docker-testppt\\WebApplication8\\WebApplication8.csproj",
       "packagesPath": "C:\\Users\\Victor Ureta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Ureta\\source\\repos\\WebApplication8\\WebApplication8\\obj\\",
+      "outputPath": "C:\\Users\\Victor Ureta\\source\\repos\\DockerTest1\\docker-testppt\\WebApplication8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
